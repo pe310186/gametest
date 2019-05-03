@@ -1,8 +1,8 @@
-﻿  gametest.cpp
-c:\users\pe310\desktop\gametest\gametest\gametest.cpp(52): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\desktop\gametest\gametest\gametest.cpp(121): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\desktop\gametest\gametest\gametest.cpp(150): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\desktop\gametest\gametest\gametest.cpp(200): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\desktop\gametest\gametest\gametest.cpp(240): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\desktop\gametest\gametest\gametest.cpp(255): error C4700: 使用了未初始化的區域變數 'day'
-c:\users\pe310\desktop\gametest\gametest\gametest.cpp(267): error C4700: 使用了未初始化的區域變數 'team'
+﻿  stdafx.cpp
+  gametest.cpp
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(115): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(158): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(189): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(239): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(279): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  gametest.vcxproj -> C:\Users\pe310\OneDrive\文件\gametest\gametest\Debug\gametest.exe

@@ -1,8 +1,13 @@
-﻿  stdafx.cpp
-  gametest.cpp
-c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(115): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(158): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(189): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(239): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
-c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(279): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+﻿  gametest.cpp
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(165): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(286): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(344): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(379): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(430): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(445): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(495): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(524): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(605): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(616): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(817): warning C4101: 'team': 未參考的區域變數
   gametest.vcxproj -> C:\Users\pe310\OneDrive\文件\gametest\gametest\Debug\gametest.exe

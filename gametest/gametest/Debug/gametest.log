@@ -1,3 +1,3 @@
 ﻿  gametest.cpp
-c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(1053): warning C4101: 'team': 未參考的區域變數
+c:\users\pe310\onedrive\文件\gametest\gametest\gametest\gametest.cpp(1060): warning C4101: 'team': 未參考的區域變數
   gametest.vcxproj -> C:\Users\pe310\OneDrive\文件\gametest\gametest\Debug\gametest.exe

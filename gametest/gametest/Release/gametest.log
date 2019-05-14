@@ -1,5 +1,5 @@
 ﻿  gametest.cpp
-gametest.cpp(1053): warning C4101: 'team': 未參考的區域變數
+gametest.cpp(1060): warning C4101: 'team': 未參考的區域變數
   正在產生程式碼
   1 of 274 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
